@@ -8,6 +8,7 @@ This repository contains the predictive modeling techniques and their applicatio
         - Estimating the cost of construction projects based on project size, materials, and labor costs.
         - Forecasting the demand for electricity based on weather patterns, holidays, and time of day.
     2. Classification Models
+        - Predicting loan defaults based on customer information and credit history.
         - Identifying patients at risk of developing a heart condition based on their medical history and lifestyle factors.    
         - Detecting spam emails based on their content and sender information.
         - Predicting whether a customer will click on an advertisement based on their browsing history and demographic information.
