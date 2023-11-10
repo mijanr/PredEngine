@@ -4,7 +4,7 @@ This repository contains the predictive modeling techniques and their applicatio
 ## Types of Predictive Models
     
     1. Regression Models
-        -Predicting crop yields based on weather data and soil conditions.
+        - Predicting crop yields based on weather data and soil conditions.
         - Estimating the cost of construction projects based on project size, materials, and labor costs.
         - Forecasting the demand for electricity based on weather patterns, holidays, and time of day.
     2. Classification Models
@@ -22,7 +22,7 @@ This repository contains the predictive modeling techniques and their applicatio
         - Identifying defective products based on manufacturing data.
     5. Time Series Models
 
-        -Forecasting the stock market based on historical prices, economic indicators, and news events.
+        - Forecasting the stock market based on historical prices, economic indicators, and news events.
         - Forecasting the sales of a product.
         - Forecasting the number of visitors to a website.
     
