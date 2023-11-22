@@ -16,7 +16,7 @@ This repository contains the predictive modeling techniques and their applicatio
         - Grouping customers based on their purchasing behavior to target them with personalized marketing campaigns.
         - Identifying groups of genes that are likely to be co-regulated.
         - Grouping galaxies based on their shape, size, and color.
-    4. Outlier Detection Models
+    4. Outlier/Anomaly Detection Models
         - Identifying fraudulent insurance claims based on policyholder information and claim history.
         - Detecting anomalous network traffic patterns that may indicate a cyberattack.
         - Identifying defective products based on manufacturing data.
