@@ -1,6 +1,7 @@
 # Predictive Modeling Techniques
 Predictive modeling is a statistical technique used to predict future outcomes. It involves the use of data and statistical algorithms to predict future trends, behavior, and actions. This type of modeling can be applied in many fields such as finance, insurance, marketing, and healthcare. 
 This repository contains the predictive modeling techniques and their applications.
+
 ## Types of Predictive Models
     
     1. Regression Models
@@ -29,3 +30,36 @@ This repository contains the predictive modeling techniques and their applicatio
 There are Machine Learning, Deep Learning, and Statistical models can be used for predictive modeling.
 These models are built, trained, and validated on historical data, and then used to predict future events. The accuracy of these predictions can be improved by refining the model over time.
 
+## Models
+    - Classification
+        - Logistic Regression
+        - Decision Tree
+        - Random Forest
+        - Naive Bayes
+        - Support Vector Machine
+        - K-Nearest Neighbors
+        - XGBoost etc.
+    - Regression
+        - Linear Regression
+        - Decision Tree
+        - Random Forest
+        - Support Vector Machine
+        - K-Nearest Neighbors
+        - XGBoost etc.
+    - Clustering
+        - K-Means
+        - Hierarchical Clustering
+        - DBSCAN
+        - Mean Shift
+        - Gaussian Mixture Model etc.
+    - Time Series   
+        - ARIMA
+        - Exponential Smoothing
+        - Croston's Method
+        - LSTM 
+        - XGBoost etc.
+    - Anomaly Detection
+        - One-Class SVM
+        - Isolation Forest
+        - Local Outlier Factor
+        - Autoencoder etc.
