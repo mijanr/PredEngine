@@ -22,7 +22,6 @@ This repository contains the predictive modeling techniques and their applicatio
         - Detecting anomalous network traffic patterns that may indicate a cyberattack.
         - Identifying defective products based on manufacturing data.
     5. Time Series Models
-
         - Forecasting the stock market based on historical prices, economic indicators, and news events.
         - Forecasting the sales of a product.
         - Forecasting the number of visitors to a website.
