@@ -1,5 +1,5 @@
-# Predictive Modeling Techniques
-Predictive modeling is a statistical technique used to predict future outcomes. It involves the use of data and statistical algorithms to predict future trends, behavior, and actions. This type of modeling can be applied in many fields such as finance, insurance, marketing, and healthcare. 
+# PredEngine: Predictive modeling techniques for data-driven decision-making
+Predictive modeling is a statistical technique for predicting future outcomes. It involves using data and statistical algorithms to predict future trends, behavior, and actions. This type of modeling can be applied in many fields, such as finance, insurance, marketing, and healthcare. 
 This repository contains the predictive modeling techniques and their applications.
 
 ## Types of Predictive Models
