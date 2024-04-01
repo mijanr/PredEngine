@@ -15,6 +15,15 @@ Various ML/DL models are used for classification tasks. Some of the popular mode
 - Neural Networks
 - etc.
 
+## Dataset
+The dataset used for classification tasks is:
+- **Loan Default Prediction**
+    - The dataset contains information about customers who have taken loans from a bank. The goal is to predict whether a customer will default on the loan or not.
+- **Customer Churn Prediction**
+    - The dataset contains information about customers of a bank. The goal is to predict whether a customer will churn (leave the bank) or not.
+
+What makes the tasks interesting is that the datasets are imbalanced. The number of customers who default on loans or churn is much less than the number of customers who do not default or churn. This makes the classification tasks challenging.
+
 ## Tasks
 
 1. **Loan Default Prediction** [Notebook](LoanDefaultPred.ipynb) 
@@ -22,3 +31,5 @@ Various ML/DL models are used for classification tasks. Some of the popular mode
 2. **Customer Churn Prediction** [Notebook](BankCustomerChurnPred.ipynb)
     - Random Forest
     - XGBoost
+
+`Optuna` is used for hyperparameter tuning in the classification models.
