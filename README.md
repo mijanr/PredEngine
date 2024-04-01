@@ -70,3 +70,19 @@ To create a conda environment using the requirements.yml file, run the following
 ```
 conda env create -f requirements.yml
 ```
+
+## Run inside Docker Container
+To run the code inside a Docker container, follow the steps below:
+
+1. Build the Docker image:
+```
+docker build -t pred_engine .
+```
+
+2. Run the Docker container:
+```
+docker run -it pred_engine
+```
+
+This will copy the repository inside the Docker container and install all the required packages.
+
