@@ -43,44 +43,19 @@ This repository contains the predictive modeling techniques and their applicatio
 
 ## Models
 
-Various ML, DL and statistical models are used for predictive modeling. Some of the models are:
+Various ML, DL, and statistical models are used in predictive modeling. The following table lists the models used for different types of predictive modeling:
 
-- **Classification**
-    - Logistic Regression
-    - Decision Tree
-    - Random Forest
-    - Naive Bayes
-    - Support Vector Machine
-    - K-Nearest Neighbors
-    - XGBoost etc.
 
-- **Regression**
-    - Linear Regression
-    - Decision Tree
-    - Random Forest
-    - Support Vector Machine
-    - K-Nearest Neighbors
-    - XGBoost etc.
+| **Classification** | **Regression** | **Clustering** | **Time Series** | **Anomaly Detection** |
+|--------------------|----------------|----------------|-----------------|-----------------------|
+| Logistic Regression| Linear Regression| K-Means | ARIMA | One-Class SVM |
+| Decision Tree | Decision Tree | Hierarchical Clustering | Exponential Smoothing | Isolation Forest |
+| Random Forest | Random Forest | DBSCAN | Croston's Method | Local Outlier Factor |
+| Naive Bayes | Support Vector Machine | Mean Shift | LSTM | Autoencoder |
+| Support Vector Machine | K-Nearest Neighbors | Gaussian Mixture Model | XGBoost | |
+| K-Nearest Neighbors | XGBoost | | | |
+| XGBoost | | | | |
 
-- **Clustering**
-    - K-Means
-    - Hierarchical Clustering
-    - DBSCAN
-    - Mean Shift
-    - Gaussian Mixture Model etc.
-
-- **Time Series**
-    - ARIMA
-    - Exponential Smoothing
-    - Croston's Method
-    - LSTM 
-    - XGBoost etc.
-
-- **Anomaly Detection**
-    - One-Class SVM
-    - Isolation Forest
-    - Local Outlier Factor
-    - Autoencoder etc.
 
 
 ## Requirements
