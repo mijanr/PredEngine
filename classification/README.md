@@ -26,9 +26,9 @@ What makes the tasks interesting is that the datasets are imbalanced. The number
 
 ## Tasks
 
-1. **Loan Default Prediction** [Notebook](LoanDefaultPred.ipynb) 
+1. Loan Default Prediction [Notebook](LoanDefaultPred.ipynb) 
     - XGBoost
-2. **Customer Churn Prediction** [Notebook](BankCustomerChurnPred.ipynb)
+2. Customer Churn Prediction [Notebook](BankCustomerChurnPred.ipynb)
     - XGBoost
 
 `Optuna` is used for hyperparameter tuning in the classification models.
