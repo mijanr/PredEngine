@@ -22,6 +22,7 @@ There are many clustering algorithms. Some of the popular clustering algorithms 
 ## Tasks
 
 1. Banknote Authentication [Notebook](BanknoteAuthentication.ipynb)
+2. Customer Segmentation [Notebook](MallCustomerSegmentation.ipynb)
 
 
 
