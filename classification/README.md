@@ -29,7 +29,6 @@ What makes the tasks interesting is that the datasets are imbalanced. The number
 1. **Loan Default Prediction** [Notebook](LoanDefaultPred.ipynb) 
     - XGBoost
 2. **Customer Churn Prediction** [Notebook](BankCustomerChurnPred.ipynb)
-    - Random Forest
     - XGBoost
 
 `Optuna` is used for hyperparameter tuning in the classification models.
