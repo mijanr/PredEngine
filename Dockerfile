@@ -5,7 +5,7 @@ FROM continuumio/miniconda3
 RUN conda install -y jupyter
 
 # Create new environment from requirements.yaml
-COPY requirements.yaml .
+COPY requirements.yml .
 RUN conda env create -f requirements.yml
 
 # Clone the repo "https://github.com/mijanr/PredEngine" into the docker image
