@@ -32,7 +32,8 @@ This repository contains the predictive modeling techniques and their applicatio
 4. Clustering Models
         
     Examples:
-    - .
+    - Mall Customer Segmentation [Notebook](clustering/MallCustomerSegmentation.ipynb)
+    - Banknote Authentication [Notebook](clustering/BanknoteAuthentication.ipynb)   
 
 5. Time Series Models
 
