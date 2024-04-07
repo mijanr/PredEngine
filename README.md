@@ -1,5 +1,7 @@
 # PredEngine: Predictive modeling techniques for data-driven decision-making
 
+This repository contains various predictive modeling techniques, such as regression, classification, clustering, time series, and anomaly detection for data-driven decision-making.
+
 Predictive modeling is a technique for predicting future outcomes. It involves using data and statistical algorithms to predict future trends, behavior, and actions. This type of modeling can be applied in many fields, such as:
 
     - Finance
